@@ -1,1 +1,4 @@
 qiskit>=2.0
+mqt.bench
+scikit-learn
+torch
